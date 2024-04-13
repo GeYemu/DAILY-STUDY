@@ -9,5 +9,6 @@ void main( )
         printf("\n");
     }
     put(”這是哈哈“)；
+    put("haha")
 }
 
