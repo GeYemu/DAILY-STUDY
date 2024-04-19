@@ -2,23 +2,14 @@ abstract class A {
     abstract public void f();
 }
 
-class B extends A{
-    public static void main(String[] args){
-    public void f(){
-    System.out.printf("AAAA");
+class B extends A {
+    @Override
+    public void f() {
+        System.out.printf("AAAA\n");
     }
-}}
 
-package zhangsan.lisi;  
-public class TestPackage
-{
-	public static void main(String[] args)
-	{
-		new A().print();
-	}
-}
-class A{
-	public void print(){
-		System.out.println("AAAAA");
-	}
+    public static void main(String[] args) {
+        B obj = new B();
+        obj.f();
+    }
 }
