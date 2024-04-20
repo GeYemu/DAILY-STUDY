@@ -7,5 +7,6 @@ class B
 	{
 		A aa = new A();
 		aa.f();
+		aa.g();
 	}
 }
