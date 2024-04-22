@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "MathApp.src.App",
+      "projectName": "Daliy-study_8b14962f"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "lldb",
       "request": "launch",
