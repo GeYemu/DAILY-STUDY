@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestExcep_4",
+      "request": "launch",
+      "mainClass": "TestExcep_4",
+      "projectName": "Daliy-study_6789608"
+    },
+    {
+      "type": "java",
       "name": "TestExcep_3",
       "request": "launch",
       "mainClass": "TestExcep_3",
