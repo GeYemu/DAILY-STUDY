@@ -8,7 +8,7 @@ void main( )
         for( j=i-1;  j>=1;  j--) printf("%d ",j );
         printf("\n");
     }
-    put(”這是哈哈“)；
+    put(”這是哈哈“);
     put("haha")
 }
 

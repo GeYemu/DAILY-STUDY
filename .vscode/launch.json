@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestExcep_3",
+      "request": "launch",
+      "mainClass": "TestExcep_3",
+      "projectName": "Daliy-study_6789608"
+    },
+    {
+      "type": "java",
+      "name": "TestExcep_1",
+      "request": "launch",
+      "mainClass": "TestExcep_1",
+      "projectName": "Daliy-study_6789608"
+    },
+    {
+      "type": "java",
       "name": "App",
       "request": "launch",
       "mainClass": "MathApp.src.App",
