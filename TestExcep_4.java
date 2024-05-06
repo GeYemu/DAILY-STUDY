@@ -8,6 +8,7 @@ class A
 	public void f()
 	{
 		g();
+		int i = 1;
 	}
 	
 	public void g()

@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestExcep_1拷貝",
+      "request": "launch",
+      "mainClass": "TestExcep_1拷貝",
+      "projectName": "Daliy-study_8b14962f"
+    },
+    {
+      "type": "java",
       "name": "TestExcep_4",
       "request": "launch",
       "mainClass": "TestExcep_4",
