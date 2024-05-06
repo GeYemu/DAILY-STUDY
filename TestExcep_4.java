@@ -8,7 +8,7 @@ class A
 	public void f()
 	{
 		g();
-		int i = 1;
+	
 	}
 	
 	public void g()
@@ -23,13 +23,8 @@ public class TestExcep_4
 {
 	public static void main(String[] args)
 	{
-		try
-		{
+		
 			new A().f();
-		}
-		catch (Exception e)
-		{
-			e.printStackTrace();
-		}		
+		
 	}
 }
