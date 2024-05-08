@@ -19,12 +19,12 @@ public class TestExcep_6
 		}
 		catch (Exception e)
 		{
-			System.out.printf("ºÙºÙ\n");
+			System.out.printf("1\n");
 			e.printStackTrace();
 		}
 		finally
 		{
-			System.out.printf("ºÃ¾Ã°¡¹þ\n");
+			System.out.printf("2\n");
 		}
 		
 				
