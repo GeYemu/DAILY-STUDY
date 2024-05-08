@@ -4,7 +4,7 @@ class A
 {
 	public void f() throws IOException  
 	{
-		throw new IOException(); //throw Å×³öÒì³£
+		throw new IOException(); //throw
 	}
 	
 	public void g()
