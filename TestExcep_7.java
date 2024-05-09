@@ -15,7 +15,7 @@ class A
 		int m = 0;
 		
 		if (0 == b)
-			throw  new DivisorIsZeroException("除数不能为零! O(∩_∩)O哈哈~");
+			throw  new DivisorIsZeroException("1~");
 		else
 			m = a/b;
 			
