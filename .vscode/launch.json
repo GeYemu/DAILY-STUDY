@@ -1,6 +1,9 @@
 {
   "version": "0.2.0",
-  "configurations": [
+  "configurations": {
+    
+    
+    
     {
       "type": "java",
       "name": "TestExcep_1拷貝",
@@ -44,5 +47,14 @@
       "cwd": "/Users/geyemu.88/Library/CloudStorage/OneDrive-共用文件庫－onedrive/桌面/Daliy-study/C的學習",
       "program": "/Users/geyemu.88/Library/CloudStorage/OneDrive-共用文件庫－onedrive/桌面/Daliy-study/C的學習/build/Debug/outDebug"
     }
-  ]
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/geyemu.88/Library/CloudStorage/OneDrive-共用文件庫－onedrive/桌面/Daliy-study/CS106L 2019",
+      "program": "/Users/geyemu.88/Library/CloudStorage/OneDrive-共用文件庫－onedrive/桌面/Daliy-study/CS106L 2019"
+    }
+  
+}
 }
